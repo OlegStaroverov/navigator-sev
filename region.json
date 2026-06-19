@@ -25,7 +25,7 @@
       "owner": "Правительство Севастополя",
       "link": "https://max.ru/sevastopolofficial",
       "category_ids": [
-        "useful"
+        "departments"
       ],
       "tags": [
         "Другое",
@@ -517,7 +517,7 @@
       "owner": "Главное управление государственного жилищного надзора города Севастополя",
       "link": "https://max.ru/id9204002612_gos",
       "category_ids": [
-        "management-companies"
+        "departments"
       ],
       "tags": [
         "Строительство и ЖКХ",
@@ -602,7 +602,7 @@
       "owner": "Департамент архитектуры и градостроительства города Севастополя",
       "link": "https://max.ru/id9204003736_gos",
       "category_ids": [
-        "management-companies"
+        "departments"
       ],
       "tags": [
         "Строительство и ЖКХ",
@@ -3441,7 +3441,7 @@
       "owner": "ГАУ \"Цифровой Севастополь - МФЦ в Г. Севастополе\"",
       "link": "https://max.ru/id9204003380_gos",
       "category_ids": [
-        "useful"
+        "departments"
       ],
       "tags": [
         "Экономика",
@@ -3458,7 +3458,7 @@
       "owner": "Цифровой Севастополь",
       "link": "https://max.ru/id9204003863_gos",
       "category_ids": [
-        "useful"
+        "departments"
       ],
       "tags": [
         "Полезные каналы",
@@ -3659,25 +3659,25 @@
     {
       "id": "regional-bots",
       "name": "Региональные чат-боты",
-      "icon": "family.png",
+      "icon": "regional-bots.svg",
       "show_on_main": true
     },
     {
       "id": "departments",
       "name": "Отраслевые департаменты",
-      "icon": "transport.png",
+      "icon": "departments.svg",
       "show_on_main": true
     },
     {
       "id": "useful",
       "name": "Полезные каналы",
-      "icon": "housing.png",
+      "icon": "useful-channels.svg",
       "show_on_main": true
     },
     {
       "id": "media",
       "name": "СМИ",
-      "icon": "culture.png",
+      "icon": "media.svg",
       "show_on_main": true
     },
     {
