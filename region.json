@@ -35,6 +35,118 @@
       "icon": "part-1/ch-channel-sevastopolofficial.webp"
     },
     {
+      "id": "channel-id9200002509_gos3",
+      "name": "МихееV. Новости",
+      "description": "Официальный канал заместителя Губернатора города Севастополя\n\nМои официальные страницы: \n\nВК: https://vk.ru/mikheevia\nТелеграм: https://t.me/mikheevia",
+      "type": "channel",
+      "owner": "МихееV. Новости",
+      "link": "https://max.ru/id9200002509_gos3",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos3.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos4",
+      "name": "Павел Иено",
+      "description": "Исполняющий обязанности заместителя\nГубернатора Севастополя",
+      "type": "channel",
+      "owner": "Павел Иено",
+      "link": "https://max.ru/id9200002509_gos4",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos4.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos5",
+      "name": "Николай Приставка",
+      "description": "Исполняющий обязанности заместителя губернатора Севастополя",
+      "type": "channel",
+      "owner": "Николай Приставка",
+      "link": "https://max.ru/id9200002509_gos5",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos5.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos6",
+      "name": "Михаил Сылка",
+      "description": "Оставляйте комментарии в моем телеграмм- канале (https://t.me/mikhailsylka) или на странице Вконтакте (https://m.vk.com/mikhail_sylka)",
+      "type": "channel",
+      "owner": "Михаил Сылка",
+      "link": "https://max.ru/id9200002509_gos6",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos6.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos7",
+      "name": "Денис Профатилов",
+      "description": "Исполняющий обязанности заместителя губернатора города Севастополя",
+      "type": "channel",
+      "owner": "Денис Профатилов",
+      "link": "https://max.ru/id9200002509_gos7",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos7.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos8",
+      "name": "Мария ЛитоVко",
+      "description": "Официальный канал заместителя Губернатора города Севастополя",
+      "type": "channel",
+      "owner": "Мария ЛитоVко",
+      "link": "https://max.ru/id9200002509_gos8",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos8.jpg"
+    },
+    {
+      "id": "channel-id9200002509_gos9",
+      "name": "Светлана Пирогова",
+      "description": "Заместитель Губернатора города Севастополя\n\nhttps://sev.gov.ru/goverment/deputy/42017/",
+      "type": "channel",
+      "owner": "Светлана Пирогова",
+      "link": "https://max.ru/id9200002509_gos9",
+      "category_ids": [
+        "departments"
+      ],
+      "tags": [
+        "??????????? ???????????",
+        "????????????? ???????????"
+      ],
+      "icon": "part-3/ch-channel-id9200002509_gos9.jpg"
+    },
+    {
       "id": "channel-truekpru",
       "name": "Комсомольская правда",
       "description": "Официальный канал Комсомольской правды в MAX.",
